@@ -1,0 +1,7 @@
+,Sleep Duration,Sleep Duration,Sleep Duration,Quality of Sleep,Quality of Sleep,Stress Level,Stress Level,Physical Activity Level,Physical Activity Level,Has_Sleep_Disorder
+,mean,std,count,mean,std,mean,std,mean,std,mean
+Generation,,,,,,,,,,
+Gen Z/Young,,,0,,,,,,,
+Millennials,7.01,0.65,165,7.08,1.09,5.73,1.53,55.17,16.56,0.13
+Gen X,7.07,0.87,176,7.22,1.16,5.51,1.82,59.78,24.43,0.6
+Boomers+,8.1,0.08,33,9.0,0.0,3.0,0.0,75.91,3.63,0.85

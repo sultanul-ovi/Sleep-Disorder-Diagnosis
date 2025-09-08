@@ -1,0 +1,39 @@
+
+SLEEP HEALTH DATASET - COMPREHENSIVE ANALYSIS SUMMARY
+=====================================================
+
+1. DATA QUALITY
+   - Dataset size: 374 records
+   - Features analyzed: 27 columns
+   - Missing data: Minimal (2.4% average)
+
+2. POPULATION CHARACTERISTICS
+   - Age range: 27 - 59 years
+   - Gender distribution: {'Male': 189, 'Female': 185}
+   - Sleep disorder prevalence: 100.0%
+
+3. KEY SLEEP METRICS
+   - Average sleep duration: 7.13 +/- 0.80 hours
+   - Average sleep quality: 7.31 +/- 1.20
+   - Optimal sleep range identified: 7-9 hours
+
+4. RISK FACTORS IDENTIFIED
+   - High stress (>7): Reduces sleep quality significantly
+   - Low physical activity (<30 min): Associated with lower sleep quality
+   - Multiple outliers detected across variables
+
+5. CLUSTERING INSIGHTS
+   - Identified 3 distinct sleep pattern groups
+   - PCA variance explained: 84.3%
+
+6. PREDICTIVE MODELING
+   - Model accuracy: 0.957
+   - Random Forest R² for quality prediction: 0.993
+   - Top predictor: Systolic_BP
+
+7. ACTIONABLE RECOMMENDATIONS
+   - Focus on stress management (strongest modifiable factor)
+   - Maintain 60+ minutes daily physical activity
+   - Monitor cardiovascular health indicators
+   - Target 7-9 hours sleep duration
+   - Address occupation-specific risk factors

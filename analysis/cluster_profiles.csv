@@ -1,0 +1,6 @@
+,Sleep Duration,Sleep Duration,Quality of Sleep,Quality of Sleep,Stress Level,Stress Level,Physical Activity Level,Physical Activity Level,Heart Rate,Heart Rate,Daily Steps,Daily Steps
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+Cluster,,,,,,,,,,,,
+0,7.61,0.55,8.05,0.74,4.27,1.06,63.05,18.73,67.97,2.61,6948.95,1164.17
+1,6.07,0.08,6.0,0.0,8.0,0.0,88.24,7.16,75.0,0.0,10000.0,0.0
+2,6.37,0.35,6.01,0.67,7.14,0.84,40.2,8.92,73.74,3.89,5432.67,1056.61

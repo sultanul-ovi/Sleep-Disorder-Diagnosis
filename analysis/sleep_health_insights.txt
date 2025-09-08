@@ -1,0 +1,22 @@
+
+SLEEP HEALTH DATASET - KEY INSIGHTS REPORT
+==========================================
+Dataset Size: 374 records
+
+TOP FINDINGS:
+1. Sleep Duration: 7.13 +/- 0.80 hours
+2. Sleep Quality: 7.31 +/- 1.20 (scale 1-10)
+3. Most Common Sleep Disorder: Sleep Apnea
+4. Strongest Predictor of Sleep Quality: Stress Level
+5. Gender with Better Sleep: Female
+
+RISK FACTORS IDENTIFIED:
+- High stress (>=7): Associated with 5.9 sleep quality
+- Low physical activity (<30 min): Associated with 7.4 sleep quality
+- Sleep disorders present in 41.4% of population
+
+RECOMMENDATIONS:
+- Optimal sleep duration: 7-9 hours
+- Stress management is crucial
+- Regular physical activity (>60 min/day) improves sleep quality
+- Monitor cardiovascular health indicators

@@ -1,0 +1,6 @@
+,IQR_outliers,Z_score_outliers,Modified_Z_outliers,Lower_fence,Upper_fence
+Sleep Duration,0.0,0.0,0.0,4.300000000000001,9.899999999999999
+Quality of Sleep,0.0,0.0,0.0,3.0,11.0
+Stress Level,0.0,0.0,0.0,-0.5,11.5
+Heart Rate,15.0,9.0,12.0,62.0,78.0
+Daily Steps,0.0,0.0,0.0,2000.0,11600.0
